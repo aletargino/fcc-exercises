@@ -1,1 +1,1 @@
-FreeCodeCampExercises by Ale
+FreeCodeCampExercises by Aleta
